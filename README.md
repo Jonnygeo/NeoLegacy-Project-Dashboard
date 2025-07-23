@@ -116,12 +116,6 @@
 
 <hr/>
 
-<h2>💬 About NeoLegacy</h2>
-
-<p>
-NeoLegacy is a <strong>digital soul vault</strong> — built to preserve your <em>voice, wisdom, and love</em> for those who matter most.<br/>
-It’s AI-powered, spiritually rooted, and designed for <strong>eternal presence</strong>, not just online memory.
-</p>
 
 <hr/>
 
